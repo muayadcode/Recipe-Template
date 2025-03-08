@@ -28,13 +28,12 @@ function Header() {
                     <Navbar.Collapse id="basic-navbar-nav">
                         <Nav className="me-auto ">
                             <Nav.Link href="/">Home</Nav.Link>
-                            <Nav.Link href="https://durhamcollege-barrettcentre.my.site.com/SustainableUrbanAgricultureCommunity/s/contact-the-barrett-centre">About Us</Nav.Link>
-                            <Nav.Link href="https://durhamcollege-barrettcentre.my.site.com/SustainableUrbanAgricultureCommunity/s/knowledge-centre">Knowledge Centre</Nav.Link>
-                            <Nav.Link href="https://durhamcollege-barrettcentre.my.site.com/SustainableUrbanAgricultureCommunity/s/login/?ec=302&startURL=%2FSustainableUrbanAgricultureCommunity%2Fs%2Fcommunity-forum">Community Forum</Nav.Link>
-                            <Nav.Link href="https://durhamcollege-barrettcentre.my.site.com/SustainableUrbanAgricultureCommunity/s/login/?ec=302&startURL=%2FSustainableUrbanAgricultureCommunity%2Fs%2Fask-an-expert">Ask an Expert</Nav.Link>
+                            <Nav.Link href="https://durhamcollege-barrettcentre.my.site.com/SustainableUrbanAgricultureCommunity/s/about-us" target="_blank" rel="noreferrer">About Us</Nav.Link>
+                            <Nav.Link href="https://durhamcollege-barrettcentre.my.site.com/SustainableUrbanAgricultureCommunity/s/knowledge-centre" target="_blank" rel="noreferrer">Knowledge Centre</Nav.Link>
+                            <Nav.Link href="https://durhamcollege-barrettcentre.my.site.com/SustainableUrbanAgricultureCommunity/s/login/?ec=302&startURL=%2FSustainableUrbanAgricultureCommunity%2Fs%2Fcommunity-forum" target="_blank" rel="noreferrer">Community Forum</Nav.Link>
+                            <Nav.Link href="https://durhamcollege-barrettcentre.my.site.com/SustainableUrbanAgricultureCommunity/s/login/?ec=302&startURL=%2FSustainableUrbanAgricultureCommunity%2Fs%2Fask-an-expert" target="_blank" rel="noreferrer">Ask an Expert</Nav.Link>
                             <NavDropdown title="More" id="basic-nav-dropdown">
-                                <NavDropdown.Item className='navItem' href="https://durhamcollege-barrettcentre.my.site.com/SustainableUrbanAgricultureCommunity/s/blog">Blog</NavDropdown.Item>
-                                
+                                <NavDropdown.Item className='navItem' href="https://durhamcollege-barrettcentre.my.site.com/SustainableUrbanAgricultureCommunity/s/blog" target="_blank" rel="noreferrer">Blog</NavDropdown.Item>
                             </NavDropdown>
                         </Nav>
                     </Navbar.Collapse>

@@ -16,9 +16,9 @@ function Footer() {
         <Col lg={3} md={4} sm={6} className="footer-white-left-side"> {/* Added className="align-left" */}
             <div className="">
               <ul className="footer-list">
-                <li><a href="https://durhamcollege-barrettcentre.my.site.com/SustainableUrbanAgricultureCommunity/s/contact-the-barrett-centre" className="font-weight-bold font-size-1-25em text-dark">About Us</a></li>
-                <li><a href="https://durhamcollege-barrettcentre.my.site.com/SustainableUrbanAgricultureCommunity/s/faqs" className="text-dark">FAQ's</a></li>
-                <li><a href="https://durhamcollege-barrettcentre.my.site.com/SustainableUrbanAgricultureCommunity/s/information-access-and-privacy" className="text-dark">Information Access & Privacy</a></li>
+                <li><a href="https://durhamcollege-barrettcentre.my.site.com/SustainableUrbanAgricultureCommunity/s/about-us" className="font-weight-bold font-size-1-25em text-dark" target="_blank" rel="noreferrer">About Us</a></li>
+                <li><a href="https://durhamcollege-barrettcentre.my.site.com/SustainableUrbanAgricultureCommunity/s/faqs" className="text-dark" target="_blank" rel="noreferrer">FAQ's</a></li>
+                <li><a href="https://durhamcollege-barrettcentre.my.site.com/SustainableUrbanAgricultureCommunity/s/information-access-and-privacy" className="text-dark" target="_blank" rel="noreferrer">Information Access & Privacy</a></li>
               </ul>
             </div>
          </Col>
@@ -39,7 +39,7 @@ function Footer() {
                 <Col md={6}>
                   <div className="text-center">
                     <img src={logo} className="p-3 img-fluid" alt='Durham Logo' />
-                    <p className="texts font-size-0-75em text-light">Copyright Durham College 2024</p>
+                    <p className="texts font-size-0-75em text-light">Copyright Durham College 2025</p>
                   </div>
                 </Col>
               </Row>

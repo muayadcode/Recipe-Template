@@ -53,13 +53,16 @@ Deliver a functional and educational front-end project in a professional environ
 
 1. **Clone the repository**  
    ```bash
-     git clone https://github.com/muayadcode/Recipe-Template.git
-   
+      git clone https://github.com/muayadcode/Recipe-Template.git
+    
 2. **Navigate into the project folder**
-   ``` cd Recipe-Template
+   ```bash
+      cd Recipe-Template
    
 4. **Install dependencies**
-   ```npm install
+   ```bash
+      npm install
    
 6. **Start the development server**
-   ```npm start
+   ```bash
+      npm start

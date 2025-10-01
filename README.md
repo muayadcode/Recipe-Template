@@ -1,70 +1,65 @@
-# Getting Started with Create React App
+# 🍳 The Barrett Centre – Recipe Template Website  
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The Barrett Centre Recipe Template Website is a responsive web application built during my internship at **Durham College**.  
+It was designed as a teaching project to provide users with simple, structured recipe templates while also demonstrating modern web development practices.  
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 📝 Project Description  
+This project delivers a clean and interactive recipe template system.  
+The goal was to create a **user-friendly learning resource** that helps students and instructors engage with structured recipe content while also showcasing how to build scalable front-end applications with React.  
 
-### `npm start`
+As the developer, I was responsible for:  
+- Designing and developing the entire React front-end.  
+- Implementing navigation using React Router.  
+- Applying Bootstrap for responsive, mobile-first design.  
+- Building reusable components for scalability and consistency.  
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🎮 Features  
+- Recipe template pages with clear, step-by-step layout.  
+- Smooth navigation with **React Router**.  
+- Responsive design optimized for desktop, tablet, and mobile.  
+- Reusable React components for modular development.  
+- Built with an educational focus to demonstrate best practices.  
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🛠️ Technologies Used  
 
-### `npm run build`
+| Technology     | Purpose                                   |  
+|----------------|-------------------------------------------|  
+| React          | Core framework for building UI components |  
+| React Router   | Navigation between pages                  |  
+| Bootstrap      | Responsive, mobile-first styling          |  
+| JavaScript ES6 | Core logic and interactivity              |  
+| HTML5 & CSS3   | Markup and styling foundation             |  
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
+##💡 About This Project
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+This project demonstrates my ability to:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Build component-based applications using React.
 
-### `npm run eject`
+Apply responsive design with Bootstrap.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Implement client-side routing with React Router.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Deliver a functional and educational front-end project in a professional environment.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 📥 How to Download & Run  
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+1. **Clone the repository**  
+   ```bash
+     git clone https://github.com/muayadcode/Recipe-Template.git
+   
+2. **Navigate into the project folder
+   cd Recipe-Template
+   
+4. ** Install dependencies
+   npm install
+   
+6. **Start the development server
+   npm start

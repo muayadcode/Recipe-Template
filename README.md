@@ -1,4 +1,4 @@
-# 🍳 The Barrett Centre – Recipe Template Website  
+#  The Barrett Centre – Recipe Template Website  
 
 The Barrett Centre Recipe Template Website is a responsive web application built during my internship at **Durham College**.  
 It was designed as a teaching project to provide users with simple, structured recipe templates while also demonstrating modern web development practices.  

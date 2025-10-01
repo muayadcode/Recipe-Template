@@ -37,24 +37,21 @@ As the developer, I was responsible for:
 | HTML5 & CSS3   | Markup and styling foundation             |  
 
 ---
-##💡 About This Project
+## 💡 About This Project
 
 This project demonstrates my ability to:
 
-Build component-based applications using React.
+- Build **component-based applications** using React
+- Apply **responsive design** with Bootstrap
+- Implement **client-side routing** with React Router
+- Deliver a **functional and educational front-end project** in a professional environment
 
-Apply responsive design with Bootstrap.
-
-Implement client-side routing with React Router.
-
-Deliver a functional and educational front-end project in a professional environment.
 
 ## 📥 How to Download & Run  
 
 1. **Clone the repository**  
    ```bash
       git clone https://github.com/muayadcode/Recipe-Template.git
-    
 2. **Navigate into the project folder**
    ```bash
       cd Recipe-Template
